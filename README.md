@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-<!--
-**ManuellaBerti/ManuellaBerti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-cute.gif" width="180"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">meow ♡</h3>
+<p align="center">I am from Brazil 🇧🇷</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuellaBerti&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuellaBerti&layout=compact&theme=tokyonight" />
+</p>
