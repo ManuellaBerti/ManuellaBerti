@@ -78,10 +78,10 @@ Olá! Meu nome é Manuélla Catarina Berti, tenho 18 anos e sou natural de Flori
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/kamillyvm">
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManuellaBerti&theme=dracula" alt="General stats badge"/> 
-  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuellaBerti&theme=dracula" alt="Profile details badge"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manuellaberti&theme=dracula&utcOffset=8" alt="Commits per day badge"/>
   </a>
 </div>
 
